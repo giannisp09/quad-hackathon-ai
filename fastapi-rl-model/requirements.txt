@@ -1,0 +1,7 @@
+fastapi==0.111.0
+numpy==1.23.5
+pandas==1.5.3
+pydantic==1.10.2
+stable_baselines3==2.3.2
+torch==1.13.1
+uvicorn==0.30.1
